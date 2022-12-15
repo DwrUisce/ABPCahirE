@@ -150,14 +150,14 @@ var APP_DATA = {
       ],
       "faceSize": 1440,
       "initialViewParameters": {
-        "yaw": 2.811181075177241,
-        "pitch": 0.40453265276381245,
+        "yaw": 2.176032995212351,
+        "pitch": 0.18970224984997053,
         "fov": 1.3123694188512842
       },
       "linkHotspots": [
         {
-          "yaw": 0.48099978340186134,
-          "pitch": -0.03205983167413251,
+          "yaw": 1.2415219140126919,
+          "pitch": 0.08584459175052395,
           "rotation": 0,
           "target": "3-plant-outlet"
         },
@@ -180,6 +180,18 @@ var APP_DATA = {
           "pitch": 0.19177329896231932,
           "title": "Dissolved Air Flotation Tank",
           "text": "The DAF Tank is the first major treatment step in the ABP Cahir wastewater treatment plant. It removes suspended material in the wastewater by floating them upwards in the tank and skimming the top of the water column to remove them. A significant amount of heat is still retained by the wastewater when it leaves the tank, although it is not as high as in the sump where heat recovery is occurring now.&nbsp;Continue the tour by clicking on the ^ sign well to the left of this information sign that will take you to the Outlet."
+        },
+        {
+          "yaw": -0.4605854297607479,
+          "pitch": -0.07130223786574597,
+          "title": "ABP Cahir",
+          "text": "This is the main building where beef processing occurs at ABP Cahir. Significant amounts of hot water is used throughout this process and contributes to the heat of the wastewater at the treatment plant.&nbsp;"
+        },
+        {
+          "yaw": 1.6476199177297621,
+          "pitch": -0.15803856121888415,
+          "title": "Munster Proteins",
+          "text": "This adjoining factory predominantly treats the by-products of meat processing from ABP Cahir and also discharges wastewater to the treatment plant.&nbsp;"
         }
       ]
     },
@@ -227,8 +239,8 @@ var APP_DATA = {
           "text": "Treated water is discharged from this outlet once it goes through the DAF tank and several other treatment processes. Heat recovery is still possible from the treated water at this location, even though it is a significantly smaller resource than at the inlet and the DAF tank. The advantage of recovering heat here is that there is a minimal chance of disrupting any of the plant’s treatment processes.&nbsp;&nbsp;"
         },
         {
-          "yaw": -2.939119653158036,
-          "pitch": 0.01998223241986885,
+          "yaw": -2.869898378641839,
+          "pitch": 0.02220442815313106,
           "title": "Aeration Tank",
           "text": "This is one of the treatment steps in the plant after the DAF tank. It is a biological treatment processes where the wastewater is aerated significantly to use microbial activity to break down organic matter and other pollutants.&nbsp;"
         },
